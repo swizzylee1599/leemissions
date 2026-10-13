@@ -1114,6 +1114,42 @@ const translations = {
   "Relief supplies prepared for families affected by the Thailand–Cambodia conflict": {
     "fr": "Des colis de secours préparés pour les familles touchées par le conflit entre la Thaïlande et le Cambodge",
     "ko": "태국–캄보디아 분쟁 피해 가정을 위해 준비한 구호 물품"
+  },
+  "A displacement camp shown in the Mission Cambodia presentation": {
+    "fr": "Un camp de déplacés présenté dans Mission Cambodge",
+    "ko": "Mission Cambodia 발표 자료에 담긴 피란민 캠프"
+  },
+  "Teams preparing food packages during the first relief response": {
+    "fr": "Des équipes préparent des colis alimentaires lors de la première intervention",
+    "ko": "첫 구호 활동에서 식량 꾸러미를 준비하는 팀"
+  },
+  "Cambodian and Thai representatives at the first ceasefire declaration": {
+    "fr": "Des représentants cambodgiens et thaïlandais lors de la première déclaration de cessez-le-feu",
+    "ko": "첫 휴전 선언에 참석한 캄보디아와 태국 대표들"
+  },
+  "Soldiers pictured after the November ceasefire broke": {
+    "fr": "Des soldats photographiés après la rupture du cessez-le-feu en novembre",
+    "ko": "11월 휴전이 깨진 뒤 촬영된 군인들"
+  },
+  "Aerial view of fighting near the Thailand–Cambodia border": {
+    "fr": "Vue aérienne des combats près de la frontière entre la Thaïlande et le Cambodge",
+    "ko": "태국–캄보디아 국경 인근 전투의 항공 사진"
+  },
+  "Christians gathered at night for Candlelight Christmas prayer and worship": {
+    "fr": "Des chrétiens réunis le soir pour la prière et la louange de Candlelight Christmas",
+    "ko": "Candlelight Christmas 기도와 예배를 위해 밤에 모인 그리스도인들"
+  },
+  "Children gathered for the Christmas Eve gift distribution": {
+    "fr": "Des enfants réunis pour la distribution de cadeaux de la veille de Noël",
+    "ko": "크리스마스이브 선물 나눔에 모인 어린이들"
+  },
+  "Officials signing the second ceasefire agreement": {
+    "fr": "Des responsables signent le deuxième accord de cessez-le-feu",
+    "ko": "두 번째 휴전 협정에 서명하는 관계자들"
+  },
+  "A ministry team serving children during the continuing relief response": {
+    "fr": "Une équipe de ministère au service des enfants pendant la poursuite des secours",
+    "ko": "지속적인 구호 활동 중 어린이들을 섬기는 사역팀"
   }
 };
 

@@ -84,7 +84,9 @@ if (updateList && Array.isArray(window.leeUpdates) && window.leeUpdates.length) 
  const section = document.querySelector('.conflict-scroll'); if (!section) return;
  const stage=section.querySelector('.conflict-stage'), track=section.querySelector('.conflict-track'), viewport=section.querySelector('.conflict-window');
  const cards=[...track.children], buttons=[...section.querySelectorAll('[data-conflict-step]')], meter=section.querySelector('.conflict-meter span'), count=section.querySelector('.conflict-count');
+ const details=section.closest('details');
  const motion=matchMedia('(prefers-reduced-motion: reduce)'); let distance=0,top=0,active=0,scheduled=false;
+ function loadPhotos(){if(details?.open)cards.forEach(card=>{const photo=card.querySelector('.conflict-photo');if(photo)photo.loading='eager';});}
  function status(progress){
   active=Math.min(cards.length-1,Math.round(progress*(cards.length-1)));
   cards.forEach((c,i)=>c.classList.toggle('is-current',i===active));
@@ -115,10 +117,10 @@ if (updateList && Array.isArray(window.leeUpdates) && window.leeUpdates.length) 
  viewport.addEventListener('keydown',event=>{if(event.key==='ArrowRight'||event.key==='ArrowLeft'){event.preventDefault();buttons[event.key==='ArrowRight'?1:0].click();}});
  addEventListener('scroll',()=>{if(!scheduled){scheduled=true;requestAnimationFrame(paint);}},{passive:true});
  addEventListener('resize',setup);motion.addEventListener('change',setup);
- section.closest('details')?.addEventListener('toggle',setup);
+ details?.addEventListener('toggle',()=>{loadPhotos();setup();});
  document.querySelectorAll('[data-language]').forEach(button=>button.addEventListener('click',()=>requestAnimationFrame(setup)));
  if('ResizeObserver' in window){const observer=new ResizeObserver(setup);const header=document.querySelector('header');if(header)observer.observe(header);}
- document.fonts?.ready.then(setup);setup();
+ document.fonts?.ready.then(setup);loadPhotos();setup();
 })();
 
 const facebookButton = document.querySelector('#load-facebook');
