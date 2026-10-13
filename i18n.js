@@ -23,6 +23,10 @@ const translations = {
     "fr": "Nouvelles",
     "ko": "소식"
   },
+  "Latest updates": {
+    "fr": "Dernières nouvelles",
+    "ko": "최신 소식"
+  },
   "Partner with us": {
     "fr": "Nous soutenir",
     "ko": "함께 후원하기"
@@ -391,6 +395,42 @@ const translations = {
     "fr": "Lisez nos nouvelles, priez avec nous et découvrez ce que Dieu fait au Cambodge.",
     "ko": "저희 소식을 읽고 함께 기도하며 캄보디아에서 하나님이 하시는 일에 함께해 주세요."
   },
+  "Choose the way you’d like to keep in touch, read our past updates, or send us a message.": {
+    "fr": "Choisissez comment garder le contact, relire nos anciennes nouvelles ou nous envoyer un message.",
+    "ko": "원하시는 방법으로 소식을 받아보고 지난 이야기를 읽거나 메시지를 보내 주세요."
+  },
+  "Newsletter": {
+    "fr": "Lettre de nouvelles",
+    "ko": "뉴스레터"
+  },
+  "Stories and prayer updates by email": {
+    "fr": "Nos histoires et sujets de prière par courriel",
+    "ko": "이메일로 받는 이야기와 기도 제목"
+  },
+  "Subscribe for ministry news, family updates, and ways to pray—or catch up on newsletters you may have missed.": {
+    "fr": "Abonnez-vous pour recevoir les nouvelles du ministère, de notre famille et nos sujets de prière, ou relisez les lettres que vous avez manquées.",
+    "ko": "사역과 가족 소식, 기도 제목을 받아보거나 놓친 뉴스레터를 다시 읽어 보세요."
+  },
+  "Read previous newsletters →": {
+    "fr": "Lire les anciennes lettres →",
+    "ko": "지난 뉴스레터 보기 →"
+  },
+  "Follow along": {
+    "fr": "Suivez-nous",
+    "ko": "함께하기"
+  },
+  "Everyday life and ministry": {
+    "fr": "Notre quotidien et notre ministère",
+    "ko": "일상과 사역"
+  },
+  "See our latest photos and short updates, and learn more about the YWAM community we serve with in Siem Reap.": {
+    "fr": "Découvrez nos dernières photos et nouvelles, ainsi que la communauté de JEM avec laquelle nous servons à Siem Reap.",
+    "ko": "최신 사진과 짧은 소식을 보고 씨엠립에서 함께 섬기는 YWAM 공동체도 알아보세요."
+  },
+  "Visit YWAM Siem Reap →": {
+    "fr": "Découvrir JEM Siem Reap →",
+    "ko": "YWAM 씨엠립 방문하기 →"
+  },
   "Join Our Newsletter ↗": {
     "fr": "S’abonner à nos nouvelles ↗",
     "ko": "뉴스레터 구독하기 ↗"
@@ -427,6 +467,10 @@ const translations = {
     "fr": "YWAM Montana · Sélectionnez « Lee, Andrew » dans « Designated For »",
     "ko": "YWAM Montana · “Designated For”에서 “Lee, Andrew”를 선택하세요"
   },
+  "Select “Lee, Andrew” under “Designated For”": {
+    "fr": "Sélectionnez « Lee, Andrew » dans « Designated For »",
+    "ko": "“Designated For”에서 “Lee, Andrew”를 선택하세요"
+  },
   "Give from Canada": {
     "fr": "Donner depuis le Canada",
     "ko": "캐나다에서 후원하기"
@@ -446,6 +490,26 @@ const translations = {
   "🇺🇸 US giving — YWAM Montana": {
     "fr": "🇺🇸 Dons des États-Unis — YWAM Montana",
     "ko": "🇺🇸 미국 후원 — YWAM Montana"
+  },
+  "🇺🇸 US giving": {
+    "fr": "🇺🇸 Dons depuis les États-Unis",
+    "ko": "🇺🇸 미국 후원"
+  },
+  "Why the form opens on another organization’s website:": {
+    "fr": "Pourquoi le formulaire s’ouvre sur le site d’une autre organisation :",
+    "ko": "다른 단체의 웹사이트에서 양식이 열리는 이유:"
+  },
+  "YWAM Montana helps process US donations for our ministry. We serve with YWAM Siem Reap in Cambodia and do not work for YWAM Montana.": {
+    "fr": "YWAM Montana nous aide à traiter les dons provenant des États-Unis. Nous servons avec JEM Siem Reap au Cambodge et ne travaillons pas pour YWAM Montana.",
+    "ko": "YWAM Montana는 저희 사역을 위한 미국 후원금 처리를 돕습니다. 저희는 캄보디아의 YWAM 씨엠립에서 섬기며 YWAM Montana 소속으로 일하지 않습니다."
+  },
+  "Click Continue to US giving below to open the secure donation form.": {
+    "fr": "Cliquez sur « Continuer vers le don aux États-Unis » ci-dessous pour ouvrir le formulaire sécurisé.",
+    "ko": "아래의 ‘미국 후원 계속하기’를 눌러 안전한 후원 양식을 여세요."
+  },
+  "Continue to US giving ↗": {
+    "fr": "Continuer vers le don aux États-Unis ↗",
+    "ko": "미국 후원 계속하기 ↗"
   },
   "Step-by-step": {
     "fr": "Étape par étape",
@@ -558,6 +622,14 @@ const translations = {
   "Your partnership means so much.": {
     "fr": "Votre soutien compte énormément.",
     "ko": "여러분의 동역이 큰 힘이 됩니다."
+  },
+  "Questions or want to stay connected?": {
+    "fr": "Une question ou envie de garder le contact ?",
+    "ko": "궁금한 점이 있거나 계속 소식을 받고 싶으신가요?"
+  },
+  "We’d be glad to help with giving questions, hear from you, or keep you updated on our family and ministry.": {
+    "fr": "Nous serons heureux de répondre à vos questions sur les dons, de vous lire et de vous donner des nouvelles de notre famille et de notre ministère.",
+    "ko": "후원에 관한 질문에 답하고 여러분의 소식을 들으며 저희 가족과 사역의 이야기를 계속 전해 드리고 싶습니다."
   },
   "Through prayer, encouragement, and giving, you are part of our family’s journey in Cambodia.": {
     "fr": "Par vos prières, vos encouragements et vos dons, vous faites partie de notre parcours familial au Cambodge.",
