@@ -819,6 +819,10 @@ const translations = {
     "fr": "Bénévoles qu’Andrew a contribué à coordonner",
     "ko": "앤드루가 함께 조율한 자원봉사자"
   },
+  "Raised toward war relief": {
+    "fr": "Recueillis pour l’aide aux victimes du conflit",
+    "ko": "전쟁 구호를 위해 모금"
+  },
   "People gathered to hear the Gospel": {
     "fr": "Personnes réunies pour entendre l’Évangile",
     "ko": "복음을 듣기 위해 모인 사람들"
