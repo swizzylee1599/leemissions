@@ -499,9 +499,9 @@ const translations = {
     "fr": "Pourquoi le formulaire s’ouvre sur le site d’une autre organisation :",
     "ko": "다른 단체의 웹사이트에서 양식이 열리는 이유:"
   },
-  "YWAM Montana helps process US donations for our ministry. We serve with YWAM Siem Reap in Cambodia and do not work for YWAM Montana.": {
-    "fr": "YWAM Montana nous aide à traiter les dons provenant des États-Unis. Nous servons avec JEM Siem Reap au Cambodge et ne travaillons pas pour YWAM Montana.",
-    "ko": "YWAM Montana는 저희 사역을 위한 미국 후원금 처리를 돕습니다. 저희는 캄보디아의 YWAM 씨엠립에서 섬기며 YWAM Montana 소속으로 일하지 않습니다."
+  "YWAM Montana helps process US donations for our ministry. We serve with YWAM Siem Reap in Cambodia.": {
+    "fr": "YWAM Montana nous aide à traiter les dons provenant des États-Unis. Nous servons avec JEM Siem Reap au Cambodge.",
+    "ko": "YWAM Montana는 저희 사역을 위한 미국 후원금 처리를 돕습니다. 저희는 캄보디아의 YWAM 씨엠립에서 섬깁니다."
   },
   "Click Continue to US giving below to open the secure donation form.": {
     "fr": "Cliquez sur « Continuer vers le don aux États-Unis » ci-dessous pour ouvrir le formulaire sécurisé.",
