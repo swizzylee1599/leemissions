@@ -823,6 +823,14 @@ const translations = {
     "fr": "Recueillis pour l’aide aux victimes du conflit",
     "ko": "전쟁 구호를 위해 모금"
   },
+  "Almost $200,000": {
+    "fr": "Près de 200 000 $",
+    "ko": "약 20만 달러"
+  },
+  "Raised to provide food relief": {
+    "fr": "Recueillis pour fournir une aide alimentaire",
+    "ko": "식량 구호를 위해 모금"
+  },
   "People gathered to hear the Gospel": {
     "fr": "Personnes réunies pour entendre l’Évangile",
     "ko": "복음을 듣기 위해 모인 사람들"
