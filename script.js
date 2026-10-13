@@ -46,6 +46,16 @@ if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: re
   }, { threshold: 0.12 });
   steps.forEach(step => { step.classList.add('will-reveal'); observer.observe(step); });
 }
+document.querySelectorAll('[data-open-chapter]').forEach(link => {
+  link.addEventListener('click', () => {
+    const chapter = document.querySelector('#hope .chapter-details');
+    if (chapter) chapter.open = true;
+  });
+});
+if (location.hash === '#hope') {
+  const chapter = document.querySelector('#hope .chapter-details');
+  if (chapter) chapter.open = true;
+}
 const updateList = document.querySelector('#personal-updates');
 if (updateList && Array.isArray(window.leeUpdates) && window.leeUpdates.length) {
   updateList.replaceChildren();

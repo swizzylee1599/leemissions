@@ -1018,6 +1018,46 @@ const translations = {
   "The wider response reached 15 displacement camps, provided food and supplies to over 6,000 families, helped start schools in each location, and hosted nine international outreach teams.": {
     "fr": "L’ensemble des actions a touché 15 camps de déplacés, fourni nourriture et produits essentiels à plus de 6 000 familles, contribué à ouvrir des écoles dans chaque lieu et accueilli neuf équipes internationales.",
     "ko": "전체 구호 활동은 피란민 캠프 15곳에 이르렀고, 6,000가정이 넘는 가족들에게 식량과 생필품을 제공했으며, 각 지역에 학교를 세우고 해외 아웃리치 팀 9개를 맞이했습니다."
+  },
+  "Welcome, Joshua": {
+    "fr": "Bienvenue, Joshua",
+    "ko": "조슈아의 탄생"
+  },
+  "Our family grew with the birth of Joshua, our first child, as we continued building a life and serving in Cambodia.": {
+    "fr": "Notre famille s’est agrandie avec la naissance de Joshua, notre premier enfant, tandis que nous poursuivions notre vie et notre service au Cambodge.",
+    "ko": "캄보디아에서 삶과 사역을 이어가던 중 첫째 조슈아가 태어나 우리 가족이 한층 더 풍성해졌습니다."
+  },
+  "Joshua, born in 2022": {
+    "fr": "Joshua, né en 2022",
+    "ko": "2022년에 태어난 조슈아"
+  },
+  "Welcome, Tabitha": {
+    "fr": "Bienvenue, Tabitha",
+    "ko": "타비타의 탄생"
+  },
+  "Tabitha joined our family in 2024, bringing new joy to our home and our journey in Cambodia.": {
+    "fr": "Tabitha a rejoint notre famille en 2024, apportant une joie nouvelle à notre foyer et à notre parcours au Cambodge.",
+    "ko": "2024년 타비타가 우리 가족에게 찾아와 캄보디아에서의 가정과 여정에 새로운 기쁨을 더해 주었습니다."
+  },
+  "Tabitha, born in 2024": {
+    "fr": "Tabitha, née en 2024",
+    "ko": "2024년에 태어난 타비타"
+  },
+  "Thailand–Cambodia conflict": {
+    "fr": "Conflit entre la Thaïlande et le Cambodge",
+    "ko": "태국–캄보디아 분쟁"
+  },
+  "The border conflict became a defining part of our ministry as displaced families arrived in Siem Reap and our teams responded with practical help, prayer, and hope.": {
+    "fr": "Le conflit frontalier est devenu une étape marquante de notre ministère. Alors que des familles déplacées arrivaient à Siem Reap, nos équipes ont répondu par une aide concrète, la prière et l’espérance.",
+    "ko": "피란민 가족들이 씨엠립에 도착하면서 국경 분쟁은 우리 사역의 중요한 한 장이 되었습니다. 우리 팀은 실질적인 도움과 기도, 소망으로 함께했습니다."
+  },
+  "Read more →": {
+    "fr": "Lire la suite →",
+    "ko": "더 읽기 →"
+  },
+  "Relief supplies prepared for families affected by the Thailand–Cambodia conflict": {
+    "fr": "Des colis de secours préparés pour les familles touchées par le conflit entre la Thaïlande et le Cambodge",
+    "ko": "태국–캄보디아 분쟁 피해 가정을 위해 준비한 구호 물품"
   }
 };
 
