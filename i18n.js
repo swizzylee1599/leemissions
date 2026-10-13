@@ -1159,6 +1159,10 @@ const translations = {
     "fr": "Joshua, né en 2022",
     "ko": "2022년에 태어난 조슈아"
   },
+  "Naomie holding newborn Joshua in 2022": {
+    "fr": "Naomie tenant Joshua nouveau-né en 2022",
+    "ko": "2022년 신생아 조슈아를 안고 있는 나오미"
+  },
   "Welcome, Tabitha": {
     "fr": "Bienvenue, Tabitha",
     "ko": "타비타의 탄생"
@@ -1170,6 +1174,10 @@ const translations = {
   "Tabitha, born in 2024": {
     "fr": "Tabitha, née en 2024",
     "ko": "2024년에 태어난 타비타"
+  },
+  "Newborn Tabitha in her hospital bed in 2024": {
+    "fr": "Tabitha nouveau-née dans son lit d’hôpital en 2024",
+    "ko": "2024년 병원 침대에 누워 있는 신생아 타비타"
   },
   "Thailand–Cambodia conflict": {
     "fr": "Conflit entre la Thaïlande et le Cambodge",
