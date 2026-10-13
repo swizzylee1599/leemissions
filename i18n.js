@@ -803,6 +803,50 @@ const translations = {
     "fr": "Servir les familles. Partager l’espérance.",
     "ko": "가정을 섬기며 소망을 나눕니다."
   },
+  "How we responded": {
+    "fr": "Comment nous avons répondu",
+    "ko": "우리가 함께한 방법"
+  },
+  "Different needs. One shared response.": {
+    "fr": "Des besoins différents. Une réponse commune.",
+    "ko": "서로 다른 필요, 하나 된 섬김."
+  },
+  "Alongside local churches, YWAM teams, and ministry partners, we served displaced families in several practical and spiritual ways.": {
+    "fr": "Aux côtés des Églises locales, des équipes de JEM et de nos partenaires, nous avons servi les familles déplacées de plusieurs manières concrètes et spirituelles.",
+    "ko": "지역 교회와 YWAM 팀, 사역 동역자들과 함께 피란민 가정들을 실제적이고 영적인 여러 방법으로 섬겼습니다."
+  },
+  "Emergency food relief": {
+    "fr": "Aide alimentaire d’urgence",
+    "ko": "긴급 식량 구호"
+  },
+  "Essential food and supplies reached more than 6,000 families across 15 displacement camps.": {
+    "fr": "De la nourriture et des produits essentiels ont été distribués à plus de 6 000 familles dans 15 camps de déplacés.",
+    "ko": "15개 피란민 캠프의 6,000가정 이상에 필수 식량과 생필품을 전달했습니다."
+  },
+  "Children and education": {
+    "fr": "Enfants et éducation",
+    "ko": "어린이와 교육"
+  },
+  "Teams prepared backpacks for more than 1,000 children and helped start schools in every camp served.": {
+    "fr": "Les équipes ont préparé des sacs à dos pour plus de 1 000 enfants et contribué à ouvrir une école dans chaque camp accompagné.",
+    "ko": "1,000명이 넘는 어린이에게 배낭을 준비하고 섬긴 모든 캠프에 학교를 세우는 일을 도왔습니다."
+  },
+  "Prayer and Christmas care": {
+    "fr": "Prière et soutien à Noël",
+    "ko": "기도와 성탄 돌봄"
+  },
+  "More than 3,000 Christians gathered to pray and worship, and 1,500 Christmas presents were shared with affected children and families.": {
+    "fr": "Plus de 3 000 chrétiens se sont réunis pour prier et adorer Dieu, et 1 500 cadeaux de Noël ont été offerts aux enfants et aux familles touchés.",
+    "ko": "3,000명이 넘는 그리스도인들이 함께 기도하고 예배했으며, 피해를 입은 어린이와 가정에 성탄 선물 1,500개를 나누었습니다."
+  },
+  "International outreach teams": {
+    "fr": "Équipes internationales d’outreach",
+    "ko": "국제 아웃리치 팀"
+  },
+  "Nine international teams joined the wider response, serving alongside local ministries and displaced communities.": {
+    "fr": "Neuf équipes internationales ont participé à l’ensemble des actions, aux côtés des ministères locaux et des communautés déplacées.",
+    "ko": "9개의 국제 팀이 전체 구호 활동에 동참하여 지역 사역자들과 피란민 공동체를 함께 섬겼습니다."
+  },
   "Alongside our teams and partners, we helped respond with food, essential supplies, and support for children in displacement camps. Families had lost safety and stability, and walking alongside them became a central part of our ministry.": {
     "fr": "Avec nos équipes et nos partenaires, nous avons contribué à apporter de la nourriture, des produits essentiels et du soutien aux enfants dans les camps de déplacés. Accompagner ces familles privées de sécurité et de stabilité est devenu une priorité de notre ministère.",
     "ko": "팀과 협력 기관들과 함께 피란민 캠프에 식량과 생필품을 전하고 아이들을 지원했습니다. 안전과 안정을 잃은 가정들의 곁을 지키는 일이 저희 사역의 중요한 부분이 되었습니다."
